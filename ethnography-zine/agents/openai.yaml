@@ -1,0 +1,4 @@
+interface:
+  display_name: "民族志地下剪贴 Zine"
+  short_description: "把民族志原文编辑成密集剪贴小志，保留原句，让文字沿图像轮廓走并核验可读性"
+  default_prompt: "用 $ethnography-zine 将我提供的民族志原文制作成可独立阅读的地下剪贴 zine，保留原文语言和完整选段，交付 PDF 与可编辑源文件。"

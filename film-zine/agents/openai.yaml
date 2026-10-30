@@ -1,0 +1,6 @@
+interface:
+  display_name: "电影 Zine"
+  short_description: "用核实原句和真实剧照制作图文交织的电影小志，默认机器打印字体并逐页输出PNG"
+  default_prompt: "使用 $film-zine，围绕我给的影片和感受选取真实原文与剧照，制作图文交织、机器打印字体的电影 zine，并逐页输出 PNG。"
+policy:
+  allow_implicit_invocation: true
